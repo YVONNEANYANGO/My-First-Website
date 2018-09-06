@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My first Webpage!</title>
+</head>
+<body>
+<h1><strong>My first Webpage</strong></h1>
+<h2><strong>Written with a little guidance from
+Moringa School</strong></h2>
+
+ <p>Hello, world!</p>
+ <p>Welcome to my first Webpage!</p
+
+ <p>Here are some things I'm going to learn about coding:</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>And a lot more!</li>
+</li>
+
+  </body>
+</html>
